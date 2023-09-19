@@ -17,7 +17,9 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/xAstroDev/WorldflipperDB/total) ![Contributors](https://img.shields.io/github/contributors/xAstroDev/WorldflipperDB?color=dark-green) ![Issues](https://img.shields.io/github/issues/xAstroDev/WorldflipperDB) ![License](https://img.shields.io/github/license/xAstroDev/WorldflipperDB) 
+![Downloads](https://img.shields.io/github/downloads/xAstroDev/WorldflipperDB/total)
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/xAstroDev/WorldflipperDB/build.yml)
+![Contributors](https://img.shields.io/github/contributors/xAstroDev/WorldflipperDB?color=dark-green) ![Issues](https://img.shields.io/github/issues/xAstroDev/WorldflipperDB) ![License](https://img.shields.io/github/license/xAstroDev/WorldflipperDB) 
 
 ## Table Of Contents
 
