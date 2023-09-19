@@ -58,5 +58,5 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-* **xAstroDev** - *A Passionate Web Developer* - [xAstroDev](https://github.com/xAstroDev) - *Built then WorldflipperDB Website.*
-* 
+* **[xAstroDev](https://github.com/xAstroDev)** - **Built the WorldflipperDB Website.**
+  
