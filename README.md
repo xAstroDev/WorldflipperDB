@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/xAstroDev/WorldflipperDB">
-    <img src="https://worldflipper.jp/sp/assets/images/top_kv_logo.png?rel20230609" alt="Logo" width="160" height="160">
+    <img src="https://worldflipper.jp/sp/assets/images/top_kv_logo.png?rel20230609" alt="Logo" width="200" height="160">
   </a>
 
   <h3 align="center">WorldflipperDB</h3>
